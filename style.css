@@ -110,6 +110,13 @@ span{
 .right{
     margin-right: 45px;
 }
+.me{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    color: rgb(216, 203, 203);
+    font-size: medium;
+}
 
 @media screen and (max-width:375px){
     .container {
